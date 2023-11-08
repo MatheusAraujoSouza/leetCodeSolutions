@@ -1,0 +1,14 @@
+C:\LeetCode\solutions\Problems\obj\Debug\net6.0\Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode\solutions\Problems\obj\Debug\net6.0\Problems.AssemblyInfoInputs.cache
+C:\LeetCode\solutions\Problems\obj\Debug\net6.0\Problems.AssemblyInfo.cs
+C:\LeetCode\solutions\Problems\obj\Debug\net6.0\Problems.csproj.CoreCompileInputs.cache
+C:\LeetCode\solutions\Problems\bin\Debug\net6.0\Problems.exe
+C:\LeetCode\solutions\Problems\bin\Debug\net6.0\Problems.deps.json
+C:\LeetCode\solutions\Problems\bin\Debug\net6.0\Problems.runtimeconfig.json
+C:\LeetCode\solutions\Problems\bin\Debug\net6.0\Problems.dll
+C:\LeetCode\solutions\Problems\bin\Debug\net6.0\Problems.pdb
+C:\LeetCode\solutions\Problems\obj\Debug\net6.0\Problems.dll
+C:\LeetCode\solutions\Problems\obj\Debug\net6.0\refint\Problems.dll
+C:\LeetCode\solutions\Problems\obj\Debug\net6.0\Problems.pdb
+C:\LeetCode\solutions\Problems\obj\Debug\net6.0\Problems.genruntimeconfig.cache
+C:\LeetCode\solutions\Problems\obj\Debug\net6.0\ref\Problems.dll
