@@ -1,4 +1,4 @@
-﻿using Problems.Problems.Recursion.ReverseLinkedList.communs;
+﻿using Problems.Library.Communs;
 
 namespace Problems.Problems.Recursion.ReverseLinkedList
 {

@@ -1,4 +1,4 @@
-﻿namespace Problems.Problems.Recursion.ReverseLinkedList.communs
+﻿namespace Problems.Library.Communs
 {
     public class ListNode
     {
