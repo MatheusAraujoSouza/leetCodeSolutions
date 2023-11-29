@@ -1,11 +1,10 @@
-﻿
-//Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+﻿//Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 //You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 //You can return the answer in any order.
 
-namespace Problems.Problems.Array
+namespace Problems.Problems.Array.twosum
 {
     public class Solution
     {
@@ -22,7 +21,7 @@ namespace Problems.Problems.Array
                         result[1] = i;
                         return result;
                     }
-                }   
+                }
             }
             return result;
 
