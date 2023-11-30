@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lQ3CogVwwBX0HWjpunG8XdAWuwnNFkj/qymJYrULVyyEbujNw7p8teC2yjXE5Hzw6g4vRYJY70DItG86/r3lRA==",
+  "dgSpecHash": "AU8P/PTnpoD1VT+fayXQ2UDrrUOFWJm6hDMjL98Qzirj+smqAptprK/J1diQVrQsZQAm7NXI1qzftix3Ic9QCw==",
   "success": true,
   "projectFilePath": "C:\\LeetCode\\solutions\\leetCodeSolutions\\Problems\\Problems.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\matheus.souza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

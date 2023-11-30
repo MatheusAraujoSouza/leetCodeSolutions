@@ -1,0 +1,12 @@
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\bin\Debug\net6.0\EventHandler.deps.json
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\bin\Debug\net6.0\EventHandler.dll
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\bin\Debug\net6.0\EventHandler.pdb
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\obj\Debug\net6.0\EventHandler.csproj.AssemblyReference.cache
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\obj\Debug\net6.0\EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\obj\Debug\net6.0\EventHandler.AssemblyInfoInputs.cache
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\obj\Debug\net6.0\EventHandler.AssemblyInfo.cs
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\obj\Debug\net6.0\EventHandler.csproj.CoreCompileInputs.cache
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\obj\Debug\net6.0\EventHandler.dll
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\obj\Debug\net6.0\refint\EventHandler.dll
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\obj\Debug\net6.0\EventHandler.pdb
+C:\LeetCode\solutions\leetCodeSolutions\EventHandler\obj\Debug\net6.0\ref\EventHandler.dll
